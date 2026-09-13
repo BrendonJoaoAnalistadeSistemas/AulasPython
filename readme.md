@@ -29,7 +29,7 @@ Este repositório reúne os códigos e exercícios que desenvolvi ao estudar ló
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/brendon-joao-dev/aulas-python-procidural.git
+git clone https://github.com/brendon-joao-dev/estudos-python-procedural.git
 cd estudos-python-procedural
 cd aula00x_tema
 python nome_programa.py
