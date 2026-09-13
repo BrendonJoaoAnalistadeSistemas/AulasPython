@@ -4,7 +4,7 @@
 
 ## 🎯 Sobre este repositório
 
-Este repositório reúne os códigos e exercícios que desenvolvi ao estudar lógica de programação, estruturas de dados e programas procedurais em python que foi minha primeira linguagem, como parte de curso Técnico em ADS. O objetivo é registrar meu processo de aprendizado e servir de material de consulta futura.
+Este repositório reúne os códigos e exercícios que desenvolvi ao estudar lógica de programação, estruturas de dados e programas procedurais em python que foi minha primeira linguagem, como parte do curso Técnico em ADS. O objetivo é registrar meu processo de aprendizado e servir de material de consulta futura.
 
 ## 📚 Fonte do conteúdo
 
